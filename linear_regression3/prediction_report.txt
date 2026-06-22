@@ -1,0 +1,40 @@
+
+    ============================================================
+                   MEDICAL COST PREDICTION REPORT
+    ============================================================
+    
+    Dataset Information:
+    • Total Records: 1338
+    • Features: 7
+    • Training Samples: 1070
+    • Testing Samples: 268
+    
+    Model Performance:
+    • R² Score: 0.7836 (78.4% variance explained)
+    • Root Mean Square Error (RMSE): $5,796.28
+    • Mean Absolute Error (MAE): $4,181.19
+    • Predictions within 20%: 34.0%
+    
+    Top Factors Influencing Medical Costs:
+    1. smoker: $23,651.13
+    2. children: $425.28
+    3. bmi: $337.09
+    
+    Prediction Accuracy Summary:
+    • Average error: $4,181.19
+    • Median error: $2,695.14
+    • Best prediction: 0.3% error
+    • Worst prediction: 413.2% error
+    
+    Files Generated:
+    1. medical_cost_predictions.csv - Complete predictions
+    2. model_metrics.csv - Performance metrics
+    3. feature_importance.csv - Feature impacts
+    4. sample_predictions.csv - Top 20 predictions
+    5. feature_distributions.png - Feature analysis
+    6. prediction_results.png - Results visualization
+    
+    ============================================================
+    Report generated on: 2025-12-19 07:47:16
+    ============================================================
+    
