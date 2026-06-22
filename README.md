@@ -1,11 +1,6 @@
 # 🏥 Medical Cost Prediction System
 
 A machine learning-powered web application that predicts individual medical insurance costs based on personal health metrics. Built with Python, Scikit-learn, and Streamlit.
-
-## 🎯 Live Demo
-
-[Add Streamlit Cloud link here once deployed]
-
 ## ✨ Features
 
 ### Core Features
