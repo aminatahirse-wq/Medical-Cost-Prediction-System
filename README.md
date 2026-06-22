@@ -12,6 +12,8 @@ Machine learning web application that predicts medical insurance costs using Lin
 - Cost breakdown with pie charts and bar charts
 - Smoking vs Obesity impact comparison
 - Responsive design with custom CSS
+  <img width="1304" height="536" alt="image" src="https://github.com/user-attachments/assets/c661c9e2-7e56-4dca-b7e1-cb7a56362f2d" />
+
 
 ---
 
